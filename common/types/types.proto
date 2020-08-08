@@ -4,7 +4,7 @@ package cschain;
 import "third_party/proto/gogoproto/gogo.proto";
 import "third_party/proto/tendermint/abci/types/types.proto";
 
-option go_package                       = "gitlab.bianjie.ai/cschain/sdk-go/common/types";
+option go_package                       = "github.com/zhiqiang-bianjie/sdk-go/common/types";
 option (gogoproto.goproto_stringer_all) = false;
 option (gogoproto.stringer_all)         = false;
 

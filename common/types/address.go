@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/utils/bech32"
+	"github.com/zhiqiang-bianjie/sdk-go/common/utils/bech32"
 )
 
 const (

@@ -3,7 +3,7 @@ package types
 import (
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/utils/log"
+	"github.com/zhiqiang-bianjie/sdk-go/common/utils/log"
 )
 
 type TxManager interface {

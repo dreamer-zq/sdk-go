@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec"
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec/types"
-	sdk "gitlab.bianjie.ai/cschain/sdk-go/common/types"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec/types"
+	sdk "github.com/zhiqiang-bianjie/sdk-go/common/types"
 )
 
 const (

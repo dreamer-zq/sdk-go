@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec"
 
 	"github.com/tendermint/tendermint/crypto"
 	"github.com/tendermint/tendermint/crypto/multisig"

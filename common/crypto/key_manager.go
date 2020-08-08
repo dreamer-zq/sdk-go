@@ -6,7 +6,7 @@ import (
 
 	cryptoAmino "github.com/tendermint/tendermint/crypto/encoding/amino"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/crypto/hd"
+	"github.com/zhiqiang-bianjie/sdk-go/common/crypto/hd"
 
 	"github.com/cosmos/go-bip39"
 	"github.com/pkg/errors"

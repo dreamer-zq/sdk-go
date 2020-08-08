@@ -4,8 +4,8 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	cryptoAmino "github.com/tendermint/tendermint/crypto/encoding/amino"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec"
-	"gitlab.bianjie.ai/cschain/sdk-go/common/crypto/hd"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec"
+	"github.com/zhiqiang-bianjie/sdk-go/common/crypto/hd"
 )
 
 var cdc *codec.Codec

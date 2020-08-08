@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/types/store"
+	"github.com/zhiqiang-bianjie/sdk-go/common/types/store"
 )
 
 const (

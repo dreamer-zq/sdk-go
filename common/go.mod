@@ -1,4 +1,4 @@
-module gitlab.bianjie.ai/cschain/sdk-go/common
+module github.com/zhiqiang-bianjie/sdk-go/common
 
 go 1.14
 

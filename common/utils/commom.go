@@ -3,7 +3,7 @@ package utils
 import (
 	"crypto/rand"
 
-	sdk "gitlab.bianjie.ai/cschain/sdk-go/common/types"
+	sdk "github.com/zhiqiang-bianjie/sdk-go/common/types"
 )
 
 // GenerateRandomBytes returns securely generated random bytes.

@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/crypto"
-	sdk "gitlab.bianjie.ai/cschain/sdk-go/common/types"
+	"github.com/zhiqiang-bianjie/sdk-go/common/crypto"
+	sdk "github.com/zhiqiang-bianjie/sdk-go/common/types"
 )
 
 func TestNewMnemonicKeyManager(t *testing.T) {

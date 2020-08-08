@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	sdk "gitlab.bianjie.ai/cschain/sdk-go/common/types"
+	sdk "github.com/zhiqiang-bianjie/sdk-go/common/types"
 )
 
 func TestSplitArray(t *testing.T) {

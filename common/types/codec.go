@@ -4,7 +4,7 @@ import (
 	jsonc "github.com/gibson042/canonicaljson-go"
 	"github.com/tendermint/go-amino"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec"
 )
 
 func NewCodec() *codec.Codec {

@@ -3,8 +3,8 @@ package types
 import (
 	"github.com/tendermint/tendermint/crypto"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec"
-	cdctypes "gitlab.bianjie.ai/cschain/sdk-go/common/codec/types"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec"
+	cdctypes "github.com/zhiqiang-bianjie/sdk-go/common/codec/types"
 )
 
 //The purpose of this interface is to convert the irita system type to the user receiving type

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec/types"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec/types"
 
 	"github.com/gogo/protobuf/jsonpb"
 )

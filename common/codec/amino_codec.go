@@ -3,7 +3,7 @@ package codec
 import (
 	"fmt"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec/types"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec/types"
 )
 
 // AminoCodec defines a codec that utilizes Amino for both binary and JSON

@@ -1,7 +1,7 @@
 package admin
 
 import (
-	sdk "gitlab.bianjie.ai/cschain/sdk-go/common/types"
+	sdk "github.com/zhiqiang-bianjie/sdk-go/common/types"
 )
 
 type AdminI interface {

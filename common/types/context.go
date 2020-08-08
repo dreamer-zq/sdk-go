@@ -3,7 +3,7 @@ package types
 import (
 	"fmt"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec"
 )
 
 // TxBuilder implements a transaction context created in SDK modules.

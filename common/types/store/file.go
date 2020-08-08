@@ -15,7 +15,7 @@ import (
 	"github.com/mtibben/percent"
 	"github.com/pkg/errors"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/crypto/hd"
+	"github.com/zhiqiang-bianjie/sdk-go/common/crypto/hd"
 )
 
 const (

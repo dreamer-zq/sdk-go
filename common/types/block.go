@@ -3,7 +3,7 @@ package types
 import (
 	"encoding/base64"
 
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec"
 
 	abci "github.com/tendermint/tendermint/abci/types"
 	ctypes "github.com/tendermint/tendermint/rpc/core/types"

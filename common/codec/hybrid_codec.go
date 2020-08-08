@@ -1,7 +1,7 @@
 package codec
 
 import (
-	"gitlab.bianjie.ai/cschain/sdk-go/common/codec/types"
+	"github.com/zhiqiang-bianjie/sdk-go/common/codec/types"
 )
 
 // HybridCodec defines a codec that utilizes Protobuf for binary encoding
